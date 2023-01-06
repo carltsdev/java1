@@ -1,2 +1,2 @@
 # java1
-creacion de un proyecto en java
+creacion de este proyecto en java
