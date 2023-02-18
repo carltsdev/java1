@@ -1,2 +1,2 @@
 # java1
-creación de este proyecto en java netbeans IDE (this project)
+creación del proyecto en java netbeans IDE (this project)
